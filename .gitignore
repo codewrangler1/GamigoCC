@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+AllDigitisUnique/.vs
+AllDigitisUnique/Debug
+Elevator/Debug
+Rooms/.vs
+Rooms/Debug
+SortLetters/Debug
+SortLetters/.vs
+Elevator/.vs
